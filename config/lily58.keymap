@@ -47,8 +47,6 @@
 &trans      &kp K_MUTE    &kp C_VOL_DN  &kp C_VOLUME_UP  &kp K_PLAY_PAUSE  &trans        &trans    &trans  &trans     &kp MINUS  &kp PLUS   &kp LBRC          &kp RBRC           &kp PIPE
                                         &trans           &trans            &trans        &trans    &trans  &trans     &trans     &trans
             >;
-
-            sensor-bindings = <&inc_dec_kp C_VOL_UP C_VOL_DN>;
         };
 
         raise_layer {
@@ -66,8 +64,6 @@
 &trans     &trans  &trans  &trans  &trans  &trans  &trans    &trans  &kp KP_PLUS  &kp MINUS  &kp EQUAL  &kp LBKT  &kp RBKT   &kp BSLH
                            &trans  &trans  &trans  &trans    &trans  &trans       &trans     &trans
             >;
-
-            sensor-bindings = <&inc_dec_kp C_VOL_UP C_VOL_DN>;
         };
     };
 };
