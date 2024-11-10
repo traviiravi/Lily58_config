@@ -19,6 +19,6 @@
 ---
 include:
   - board: nice_nano_v2
-    shield: Lily58_left nice_view_adapter nice_view
+    shield: lily58_left nice_view_adapter nice_view
   - board: nice_nano_v2
-    shield: Lily58_right nice_view_adapter nice_view
+    shield: lily58_right nice_view_adapter nice_view
